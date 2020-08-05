@@ -3,7 +3,7 @@
 <br>Portfolio: <a href = "https://fb.me/datle.dev/">https://softdev.tk</a>
 </em></p>
 
-<img align='right' src="https://github.com/datuit/datuit/blob/master/boy2.png" width="338">
+<img align='right' src="https://github.com/datuit/datuit/blob/master/boy.jpeg" width="338">
 
 ```js
 
