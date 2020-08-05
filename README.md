@@ -32,7 +32,7 @@ export default () => ({
 
 [![Dat Le's github stats](https://github-readme-stats.vercel.app/api?username=datuit&hide=[%22prs%22])](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="./inbox-zero.svg" width="100%">
+<img src="https://github.com/datuit/datuit/blob/master/inbox-zero.svg" width="100%">
 
 <a href="mailto:lthanhdat10x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lthanhdat10x@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/dat-le-9050451b4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
