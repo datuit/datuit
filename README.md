@@ -11,16 +11,16 @@ export default () => ({
   nationality: "Vietnam",
   pronouns: "He" | "Him",
   askMeAbout: [
-    "webdev", "mobilenaive-dev", "reactjs dev", "front-end dev", "html",
+    "webdev", "reactnative-dev", "reactjs dev", "front-end dev", "html",
     "css", "javascript", "typescript", "graphql", "mysql", "mongodb", "nodejs"
   ],
   technologies: {
     frontEnd: {
-      js: ["react","react-native"],
+      js: ["react", "react-native"],
       css: ["antd", "bootstrap"]
     },
     backEnd: {
-      js: ["nodejs", "graphql", "express", "mongodb", "mysql"],
+      js: ["nodejs", "graphql", "express"],
       misc: ["macos-hackintosh", "windows", "linux"]
     },
     databases: ["MySQL", "MongoDb"]
