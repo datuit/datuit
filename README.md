@@ -23,7 +23,7 @@ export default () => ({
       js: ["nodejs", "graphql", "express"],
       misc: ["macos-hackintosh", "windows", "linux"]
     },
-    databases: ["MySQL", "MongoDb"]
+    databases: ["MySQL", "MongoDb", "Firebase"]
   },
   experience: "I have over 1 years study in software development." 
 });
