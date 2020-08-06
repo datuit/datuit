@@ -1,6 +1,6 @@
 <h2> Hi, My name is Dat Le! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <p><em>Bachelor of <a href="https://duytan.edu.vn/">Duy Tan University, Da Nang City, VietNam</a>
-<br>Portfolio: <a href = "https://fb.me/datle.dev/">https://softdev.tk</a>
+<br>Portfolio: <a href = "https://softdev.tk">https://softdev.tk</a>
 </em></p>
 
 <img align='right' src="https://github.com/datuit/datuit/blob/master/boy.jpeg" width="338">
