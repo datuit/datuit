@@ -12,7 +12,7 @@ export default () => ({
   pronouns: "He" | "Him",
   askMeAbout: [
     "webdev", "reactnative-dev", "reactjs dev", "front-end dev", "html",
-    "css", "javascript", "typescript", "graphql", "mysql", "mongodb", "nodejs"
+    "css", "javascript", "typescript", "graphql", "mysql", "mongodb", "nodejs", "golang"
   ],
   technologies: {
     frontEnd: {
@@ -20,8 +20,9 @@ export default () => ({
       css: ["antd", "bootstrap"]
     },
     backEnd: {
-      js: ["nodejs", "graphql", "express", "nest", "golang"],
-      misc: ["macos", "windows", "linux"]
+      js: ["nodejs", "graphql", "express", "nest"],
+      etclang : ["golang"],
+      misc: ["macos", "windows", "linux", "docker"]
     },
     databases: ["MySQL", "MongoDb", "Firebase"]
   },
