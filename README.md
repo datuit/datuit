@@ -20,8 +20,8 @@ export default () => ({
       css: ["antd", "bootstrap"]
     },
     backEnd: {
-      js: ["nodejs", "graphql", "express"],
-      misc: ["macos-hackintosh", "windows", "linux"]
+      js: ["nodejs", "graphql", "express", "nest", "golang"],
+      misc: ["macos", "windows", "linux"]
     },
     databases: ["MySQL", "MongoDb", "Firebase"]
   },
