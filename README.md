@@ -26,7 +26,7 @@ export default () => ({
     },
     databases: ["MySQL", "MongoDb", "Firebase"]
   },
-  experience: "I have over 1 years study in software development." 
+  experience: "I have over 2 years study in software development." 
 });
 
 ```
